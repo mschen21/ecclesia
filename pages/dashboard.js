@@ -42,6 +42,10 @@ export default function Dashboard() {
             </Grid>
             <Grid item xs={12} sm={9}>
               <Paper className={classes.paper}>xs=6</Paper>
+              <Paper className={classes.paper}>xs=6</Paper>
+              <Paper className={classes.paper}>xs=6</Paper>
+              <Paper className={classes.paper}>xs=6</Paper>
+              <Paper className={classes.paper}>xs=6</Paper>
             </Grid>
           </Grid>
         </div>
